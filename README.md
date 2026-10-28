@@ -9,7 +9,7 @@ Website, members' portal and admin console for Book a Medium Night, built on Clo
 
 ## Deploy
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hobnob240/law-5/tree/book-a-medium-night)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hobnob240/book-a-medium-night)
 
 During the deploy you'll be asked for one secret:
 
